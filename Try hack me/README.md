@@ -2,5 +2,4 @@
 
 <hr>
 
-<script src="https://tryhackme.com/badge/2339561"></script>
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/luk.imperinetti.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/luk.imperinetti.png" alt="TryHackMe">
