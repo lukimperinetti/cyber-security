@@ -5,7 +5,7 @@ You can view my Root Me profile [here](https://tryhackme.com/p/luk.imperinetti).
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/luk.imperinetti.png" alt="TryHackMe">
 
- = Rank  = Rooms Completed  = Badges Earned
+
 
 <hr>
 
